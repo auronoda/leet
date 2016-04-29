@@ -9,7 +9,7 @@ public class Solution {
       
       else if (n == -1){
         return 1/x;
-      }
+      } 
       else {
          if (n % 2 == 0){
           double a =  myPow(x, n / 2);
