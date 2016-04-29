@@ -13,7 +13,7 @@ public class Solution {
         if (lis[i] > max){
         max = lis[i];
         }
-      }
+      } 
       return max;
     }
 }
